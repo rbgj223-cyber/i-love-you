@@ -1,1 +1,1 @@
-inxex.html
+index.html
